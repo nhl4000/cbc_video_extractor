@@ -1,4 +1,4 @@
-# cbc_video_extractor
+# CBC Video URL Extractor
 Bookmarklet that extracts the main M3U8 file from the CBC Player.
 
 ## M3U8 File
